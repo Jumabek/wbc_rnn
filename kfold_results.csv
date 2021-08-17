@@ -1,0 +1,5 @@
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,Model Settings,,,,,,,,,,,,,
+,learning rate,batch size,hidden units,Fold-0,Fold-1,Fold-2,Fold-3,Fold-4,Fold-5,Fold-6,Fold-7,Fold-8,Fold-9,AVG
+,Lr = 0.01,64,32,87.4,89.8,89.2,85.8,89.7,90,88.9,91.1,84.7,86.5,88.31
